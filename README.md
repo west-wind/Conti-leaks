@@ -1,5 +1,7 @@
-# Conti leaks interesting observables & chat translation
-## A translation of the chats from Conti leaks 
+# Conti leaks 
+## A translation of the chats from Conti leaks & interesting observables
+
+Source: https://share.vx-underground.org/Conti/
 
 List of IP addresses extracted from all JSONs: https://github.com/west-wind/conti-leaks/blob/main/conti-IP.txt
 
