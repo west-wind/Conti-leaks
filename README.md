@@ -1,5 +1,5 @@
 # Conti leaks 
-## A translation of the chats from Conti leaks & interesting observables
+## A translation of the chats & interesting observables from Conti leaks 
 
 Source: https://share.vx-underground.org/Conti/
 
