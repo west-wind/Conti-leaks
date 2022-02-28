@@ -1,4 +1,4 @@
-# Conti-leaks
+# Conti leaks interesting observables & chat translation
 ## A translation of the chats from Conti leaks 
 
 List of IP addresses extracted from all JSONs: https://github.com/west-wind/conti-leaks/blob/main/conti-IP.txt
